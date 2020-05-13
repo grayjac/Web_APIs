@@ -1,0 +1,436 @@
+{
+    "data": [
+        {
+            "from": "2019-10-31T00:00Z",
+            "intensity": {
+                "actual": 180,
+                "forecast": 184,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T00:30Z"
+        },
+        {
+            "from": "2019-10-31T00:30Z",
+            "intensity": {
+                "actual": 191,
+                "forecast": 175,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T01:00Z"
+        },
+        {
+            "from": "2019-10-31T01:00Z",
+            "intensity": {
+                "actual": 195,
+                "forecast": 186,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T01:30Z"
+        },
+        {
+            "from": "2019-10-31T01:30Z",
+            "intensity": {
+                "actual": 198,
+                "forecast": 196,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T02:00Z"
+        },
+        {
+            "from": "2019-10-31T02:00Z",
+            "intensity": {
+                "actual": 202,
+                "forecast": 202,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T02:30Z"
+        },
+        {
+            "from": "2019-10-31T02:30Z",
+            "intensity": {
+                "actual": 207,
+                "forecast": 208,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T03:00Z"
+        },
+        {
+            "from": "2019-10-31T03:00Z",
+            "intensity": {
+                "actual": 207,
+                "forecast": 205,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T03:30Z"
+        },
+        {
+            "from": "2019-10-31T03:30Z",
+            "intensity": {
+                "actual": 211,
+                "forecast": 204,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T04:00Z"
+        },
+        {
+            "from": "2019-10-31T04:00Z",
+            "intensity": {
+                "actual": 212,
+                "forecast": 209,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T04:30Z"
+        },
+        {
+            "from": "2019-10-31T04:30Z",
+            "intensity": {
+                "actual": 213,
+                "forecast": 211,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T05:00Z"
+        },
+        {
+            "from": "2019-10-31T05:00Z",
+            "intensity": {
+                "actual": 220,
+                "forecast": 212,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T05:30Z"
+        },
+        {
+            "from": "2019-10-31T05:30Z",
+            "intensity": {
+                "actual": 235,
+                "forecast": 216,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T06:00Z"
+        },
+        {
+            "from": "2019-10-31T06:00Z",
+            "intensity": {
+                "actual": 250,
+                "forecast": 228,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T06:30Z"
+        },
+        {
+            "from": "2019-10-31T06:30Z",
+            "intensity": {
+                "actual": 251,
+                "forecast": 244,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T07:00Z"
+        },
+        {
+            "from": "2019-10-31T07:00Z",
+            "intensity": {
+                "actual": 252,
+                "forecast": 262,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T07:30Z"
+        },
+        {
+            "from": "2019-10-31T07:30Z",
+            "intensity": {
+                "actual": 252,
+                "forecast": 252,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T08:00Z"
+        },
+        {
+            "from": "2019-10-31T08:00Z",
+            "intensity": {
+                "actual": 249,
+                "forecast": 264,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T08:30Z"
+        },
+        {
+            "from": "2019-10-31T08:30Z",
+            "intensity": {
+                "actual": 246,
+                "forecast": 255,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T09:00Z"
+        },
+        {
+            "from": "2019-10-31T09:00Z",
+            "intensity": {
+                "actual": 242,
+                "forecast": 240,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T09:30Z"
+        },
+        {
+            "from": "2019-10-31T09:30Z",
+            "intensity": {
+                "actual": 240,
+                "forecast": 244,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T10:00Z"
+        },
+        {
+            "from": "2019-10-31T10:00Z",
+            "intensity": {
+                "actual": 239,
+                "forecast": 237,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T10:30Z"
+        },
+        {
+            "from": "2019-10-31T10:30Z",
+            "intensity": {
+                "actual": 240,
+                "forecast": 238,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T11:00Z"
+        },
+        {
+            "from": "2019-10-31T11:00Z",
+            "intensity": {
+                "actual": 239,
+                "forecast": 237,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T11:30Z"
+        },
+        {
+            "from": "2019-10-31T11:30Z",
+            "intensity": {
+                "actual": 242,
+                "forecast": 239,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T12:00Z"
+        },
+        {
+            "from": "2019-10-31T12:00Z",
+            "intensity": {
+                "actual": 244,
+                "forecast": 241,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T12:30Z"
+        },
+        {
+            "from": "2019-10-31T12:30Z",
+            "intensity": {
+                "actual": 245,
+                "forecast": 243,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T13:00Z"
+        },
+        {
+            "from": "2019-10-31T13:00Z",
+            "intensity": {
+                "actual": 250,
+                "forecast": 245,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T13:30Z"
+        },
+        {
+            "from": "2019-10-31T13:30Z",
+            "intensity": {
+                "actual": 256,
+                "forecast": 248,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T14:00Z"
+        },
+        {
+            "from": "2019-10-31T14:00Z",
+            "intensity": {
+                "actual": 259,
+                "forecast": 256,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T14:30Z"
+        },
+        {
+            "from": "2019-10-31T14:30Z",
+            "intensity": {
+                "actual": 257,
+                "forecast": 259,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T15:00Z"
+        },
+        {
+            "from": "2019-10-31T15:00Z",
+            "intensity": {
+                "actual": 257,
+                "forecast": 262,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T15:30Z"
+        },
+        {
+            "from": "2019-10-31T15:30Z",
+            "intensity": {
+                "actual": 255,
+                "forecast": 260,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T16:00Z"
+        },
+        {
+            "from": "2019-10-31T16:00Z",
+            "intensity": {
+                "actual": 253,
+                "forecast": 257,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T16:30Z"
+        },
+        {
+            "from": "2019-10-31T16:30Z",
+            "intensity": {
+                "actual": 248,
+                "forecast": 253,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T17:00Z"
+        },
+        {
+            "from": "2019-10-31T17:00Z",
+            "intensity": {
+                "actual": 242,
+                "forecast": 251,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T17:30Z"
+        },
+        {
+            "from": "2019-10-31T17:30Z",
+            "intensity": {
+                "actual": 241,
+                "forecast": 244,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T18:00Z"
+        },
+        {
+            "from": "2019-10-31T18:00Z",
+            "intensity": {
+                "actual": 243,
+                "forecast": 237,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T18:30Z"
+        },
+        {
+            "from": "2019-10-31T18:30Z",
+            "intensity": {
+                "actual": 257,
+                "forecast": 239,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T19:00Z"
+        },
+        {
+            "from": "2019-10-31T19:00Z",
+            "intensity": {
+                "actual": 269,
+                "forecast": 239,
+                "index": "high"
+            },
+            "to": "2019-10-31T19:30Z"
+        },
+        {
+            "from": "2019-10-31T19:30Z",
+            "intensity": {
+                "actual": 261,
+                "forecast": 266,
+                "index": "high"
+            },
+            "to": "2019-10-31T20:00Z"
+        },
+        {
+            "from": "2019-10-31T20:00Z",
+            "intensity": {
+                "actual": 252,
+                "forecast": 270,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T20:30Z"
+        },
+        {
+            "from": "2019-10-31T20:30Z",
+            "intensity": {
+                "actual": 251,
+                "forecast": 257,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T21:00Z"
+        },
+        {
+            "from": "2019-10-31T21:00Z",
+            "intensity": {
+                "actual": 250,
+                "forecast": 250,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T21:30Z"
+        },
+        {
+            "from": "2019-10-31T21:30Z",
+            "intensity": {
+                "actual": 241,
+                "forecast": 255,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T22:00Z"
+        },
+        {
+            "from": "2019-10-31T22:00Z",
+            "intensity": {
+                "actual": 229,
+                "forecast": 249,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T22:30Z"
+        },
+        {
+            "from": "2019-10-31T22:30Z",
+            "intensity": {
+                "actual": 193,
+                "forecast": 238,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T23:00Z"
+        },
+        {
+            "from": "2019-10-31T23:00Z",
+            "intensity": {
+                "actual": 162,
+                "forecast": 223,
+                "index": "moderate"
+            },
+            "to": "2019-10-31T23:30Z"
+        },
+        {
+            "from": "2019-10-31T23:30Z",
+            "intensity": {
+                "actual": 163,
+                "forecast": 172,
+                "index": "moderate"
+            },
+            "to": "2019-11-01T00:00Z"
+        }
+    ]
+}
